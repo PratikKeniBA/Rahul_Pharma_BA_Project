@@ -2,12 +2,12 @@
 
 ## Executive Dashboard
 
-![Executive Dashboard](Executive_Dashboard.png)
+![Executive Dashboard](Executive%20%26%20Tender%20Performance.png)
 
 ## Operations Dashboard
 
-![Operations Dashboard](Operations_Dashboard.png)
+![Operations Dashboard](Opreration%20Dashboard.png)
 
 ## Finance Dashboard
 
-![Finance Dashboard](Finance_Dashboard.png)
+![Finance Dashboard](Finance%20Dashboard.png)
