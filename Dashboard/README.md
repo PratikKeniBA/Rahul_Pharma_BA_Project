@@ -1,13 +1,10 @@
 ## Dashboard Screenshots
 
 ### Executive Dashboard
-
-![Executive Dashboard] (Executive%20%26%20Tender%20Performance%20Dashboard%20(1).png)
+![Executive Dashboard](Executive_Dashboard.png)
 
 ### Operations Dashboard
-
-![Operations Dashboard] (Opreration%20Dashboard%20(2).png)
+![Operations Dashboard](Operations_Dashboard.png)
 
 ### Finance Dashboard
-
-![Finance Dashboard] (Finance%20Dashboard%20(3).png)
+![Finance Dashboard](Finance_Dashboard.png)
